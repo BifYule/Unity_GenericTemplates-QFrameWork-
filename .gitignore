@@ -1,0 +1,28 @@
+
+#///////////////////////////
+# Unity Project
+#///////////////////////////
+Library/
+build/
+Logs/
+obj/
+.vs/
+TextToolDatas/
+SerializedBuildInfo/
+Temp/
+#//////////////////////////
+# NPM
+#//////////////////////////
+
+#//////////////////////////
+# WebStorm
+#//////////////////////////
+.idea/
+*.csproj
+*.sln
+*.editorconfig
+*.vsconfig
+*.DS_Store
+*.userprefs
+*.zip
+*.mp4
